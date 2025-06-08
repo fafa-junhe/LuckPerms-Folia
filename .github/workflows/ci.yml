@@ -61,7 +61,7 @@ jobs:
             standalone/loader/build/libs/LuckPerms-Standalone-*.jar
 
       - name: Upload standalone artifact
-        uses: actions/upload-artifact@v3
+        uses: awalsh128/cache-apt-pkgs-action@v1.4.3
         with:
           name: standalone-binary
           path: standalone/loader/build/libs/LuckPerms-Standalone-*.jar
