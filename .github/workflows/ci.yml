@@ -46,7 +46,7 @@ jobs:
           detailed_summary: true
 
       - name: Upload all artifacts
-        uses: actions/upload-artifact@v3
+        uses: awalsh128/cache-apt-pkgs-action@v1.4.3
         with:
           name: jars
           path: |
