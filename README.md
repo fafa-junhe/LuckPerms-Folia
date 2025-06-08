@@ -9,7 +9,7 @@ LuckPerms is a permissions plugin for Minecraft servers. It allows server admins
 
 The latest downloads, wiki & other useful links can be found on the project homepage at [luckperms.net](https://luckperms.net/).
 
-It is:
+It is:dd
 
 * **fast** - written with performance and scalability in mind.
 * **reliable** - trusted by thousands of server admins, and the largest of server networks.
